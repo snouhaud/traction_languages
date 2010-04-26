@@ -748,3 +748,13 @@ msgstr "Code de statistiques"
 msgid "If you use Google Analytics or need any other tracking script in your footer just copy and paste it here. The script will be inserted before the closing <code>&#60;/body&#62;</code> tag."
 msgstr "Si vous utilisez Google Analytics ou tout autre script de suivi dans le pied de page, collez-le ici. Le script sera inséré avant la balise <code>&#60;/body&#62;</code>."
 
+msgid "Monthly Archives"
+msgstr "Archives mensuelles"
+
+msgid "n.j.y"
+msgstr "j/n/Y"
+
+msgid "Categories"
+msgstr "Catégories"
+
+

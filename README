@@ -1,0 +1,7 @@
+Installation
+============
+
+You need to put the language files of your choise in wp-contents/themes/traction/languages
+
+Rename traction.po and traction.mo to your code language (fr_FR.mo and fr_FR.po)
+
